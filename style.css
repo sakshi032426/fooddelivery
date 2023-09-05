@@ -80,10 +80,11 @@ height: 134px;
    font-size: 1.3rem;
 }
 #navbar ul li a{
+      color: white;
     display: block;
-    padding: 3px 20px;
+    padding: 3px 22px;
     border-radius: 20px;
-text-decoration: none;    
+    text-decoration: none;
  }
  #navbar ul li a:hover{
     color: black;
